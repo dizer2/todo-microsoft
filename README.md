@@ -1,2 +1,13 @@
 # todo-microsoft
-todo
+
+### Main features: 
+ - Html
+ - Scss
+ - jQuery 
+ - Methodology Bem
+ - UX & UI
+ 
+
+
+---
+
