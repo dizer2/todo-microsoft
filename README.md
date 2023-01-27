@@ -11,4 +11,4 @@
 
 ---
 
-https://dizer2.github.io/todo-microsoft/
+https://todo-microsoft.netlify.app/
